@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "EmProjectApplication",
+            "request": "launch",
+            "mainClass": "com.pranta.Em_project.EmProjectApplication"
+        },
+        {
+            "type": "java",
             "name": "Spring Boot-EmProjectApplication<Em-project>",
             "request": "launch",
             "cwd": "${workspaceFolder}",
